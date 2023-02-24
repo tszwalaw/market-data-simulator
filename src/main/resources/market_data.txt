@@ -1,0 +1,10 @@
+{"symbol": "GOOG", "bid": 1512.12, "ask": 1512.50, "bidSize": 200, "askSize": 150, "lastPrice": 1512.45, "volume": 100000, "timestamp": "2020-08-28T09:30:00"}
+{"symbol": "GOOG", "bid": 1512.15, "ask": 1512.55, "bidSize": 150, "askSize": 100, "lastPrice": 1512.50, "volume": 200000, "timestamp": "2020-08-28T09:31:00"}
+{"symbol": "GOOG", "bid": 1512.20, "ask": 1512.60, "bidSize": 250, "askSize": 200, "lastPrice": 1512.25, "volume": 150000, "timestamp": "2020-08-28T09:32:00"}
+{"symbol": "GOOG", "bid": 1512.25, "ask": 1512.65, "bidSize": 100, "askSize": 50, "lastPrice": 1512.60, "volume": 180000, "timestamp": "2020-08-28T09:33:00"}
+{"symbol": "GOOG", "bid": 1512.30, "ask": 1512.70, "bidSize": 300, "askSize": 150, "lastPrice": 1512.55, "volume": 250000, "timestamp": "2020-08-28T09:34:00"}
+{"symbol": "GOOG", "bid": 1512.35, "ask": 1512.75, "bidSize": 200, "askSize": 100, "lastPrice": 1512.70, "volume": 180000, "timestamp": "2020-08-28T09:35:00"}
+{"symbol": "GOOG", "bid": 1512.40, "ask": 1512.80, "bidSize": 150, "askSize": 50, "lastPrice": 1512.75, "volume": 100000, "timestamp": "2020-08-28T09:36:00"}
+{"symbol": "GOOG", "bid": 1512.45, "ask": 1512.85, "bidSize": 100, "askSize": 150, "lastPrice": 1512.80, "volume": 150000, "timestamp": "2020-08-28T09:37:00"}
+{"symbol": "GOOG", "bid": 1512.50, "ask": 1512.90, "bidSize": 300, "askSize": 200, "lastPrice": 1512.85, "volume": 200000, "timestamp": "2020-08-28T09:38:00"}
+{"symbol": "GOOG", "bid": 1512.55, "ask": 1512.95, "bidSize": 200, "askSize": 100, "lastPrice": 1512.90, "volume": 220000, "timestamp": "2020-08-28T09:39:00"}
